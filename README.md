@@ -85,5 +85,10 @@ Model Evaluation
 
 Predictive Analytics
 
-Business Impact:
+# Business Impact:
+
 The system helps users verify the authenticity of news articles by automatically detecting fake news, supporting informed decision-making and combating misinformation on digital platforms.
+# NOTE:
+
+Dataset files (Fake.csv and True.csv) are not included due to file size limitations.
+Download the dataset from Kaggle and place it in the dataset folder before running the notebook.
